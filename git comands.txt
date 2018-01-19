@@ -10,6 +10,8 @@
 
 5. $ git commit - фиксирует снимок проиндексированного изменения.
    $ git commit [-a/<file>/-m "message"] - вместо git add/выбранный файл/коммит прям в строке, бед редактора.
+   $ git commit --amend -m "message for last commit before pushed" - отредактировать коммент последнего коммита.
+     --ammend позволяет "отредактировать" последний коммит, т.е, можно внести "забытые" правки в тот же самый коммит.
    
 6. $ touch .gitignore - создали игнор-лист (текстовый файл без расширений).
    $ git add .gitignore - проиндексировали.
@@ -30,7 +32,10 @@
 
 10. $ git mv <old file name> <new file name> - неявно переименовывает выбранный файл и сразу добавляет в индекс.
 
-11. $ git commit --amend -m "message for last commit before pushed"
+11. $ 
+
+12. $  
+
 
 
 
