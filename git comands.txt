@@ -30,7 +30,7 @@
 
 10. $ git mv <old file name> <new file name> - неявно переименовывает выбранный файл и сразу добавляет в индекс.
 
-11. 
+11. $ git commit --amend -m "message for last commit before pushed"
 
 
 
