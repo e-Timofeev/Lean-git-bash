@@ -1,0 +1,4 @@
+GitHub Authorization
+Enter following code in SmartGit to complete the authorization:
+
+b3cf9fdd2c558b4f791a
