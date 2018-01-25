@@ -141,6 +141,7 @@
     $ git stash apply stash@{n} - применить кокнретное изменение.
     $ git stash list - просмотр спрятанных изменений.
     $ git stash branch <tmp.branch.name> - создание отдельной ветки из спрятанного состояния.
+    $ git stash drop - удаление из стека спрятанного.
     
     
     
