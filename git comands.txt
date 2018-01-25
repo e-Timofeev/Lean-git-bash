@@ -106,4 +106,4 @@
     # для git 1.6.2 и выше аналог git checkout --track origin/<branch.name>.
     $ git checkout -b <local.branch.name> origin/<server.branch.name> - настроить локальную ветку с именем, отличным от имени удалённой ветки.
     
-    
+из мастера с любовью.    
