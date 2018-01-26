@@ -1,0 +1,3 @@
+[submodule "Sub"]
+	path = Sub
+	url = git@github.com:e-Timofeev/Lean-submodule.git
